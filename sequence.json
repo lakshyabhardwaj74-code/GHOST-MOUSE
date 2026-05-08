@@ -1,0 +1,10 @@
+[
+    {
+        "type": "wait",
+        "duration": 2.0
+    },
+    {
+        "type": "type",
+        "text": "Hello Bhai, mera code chal gaya!"
+    }
+]

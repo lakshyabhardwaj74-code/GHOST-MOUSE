@@ -1,0 +1,35 @@
+2026-04-18 23:15:14,220 - ERROR - Failed to initialize MediaPipe: module 'mediapipe' has no attribute 'solutions'
+2026-04-18 23:21:36,102 -Q ERROR - Failed to initialize MediaPipe: module 'mediapipe' has no attribute 'solutions'
+2026-04-18 23:39:13,562 - ERROR - Failed to initialize MediaPipe: module 'mediapipe' has no attribute 'solutions'
+2026-04-19 14:28:42,347 - ERROR - Failed to initialize MediaPipe: module 'mediapipe' has no attribute 'solutions'
+2026-04-19 14:29:16,796 - INFO - Successfully loaded sequence from sequence.json
+2026-04-19 14:29:16,807 - INFO - ==================================================
+2026-04-19 14:29:16,828 - INFO -  Global kill-switch registered: Press Ctrl+Shift+Q
+2026-04-19 14:29:16,829 - INFO - ==================================================
+2026-04-19 14:29:16,829 - INFO - Automation will begin in 3 seconds. Please prepare the environment...
+2026-04-19 14:29:16,830 - INFO - Starting in 3...
+2026-04-19 14:29:17,831 - INFO - Starting in 2...
+2026-04-19 14:29:18,834 - INFO - Starting in 1...
+2026-04-19 14:29:19,846 - INFO - Starting automation sequence execution...
+2026-04-19 14:29:19,847 - DEBUG - Executing sequence step 1/2
+2026-04-19 14:29:19,847 - INFO - Explicit wait for 2.0 seconds
+2026-04-19 14:29:22,526 - DEBUG - Executing sequence step 2/2
+2026-04-19 14:29:22,526 - INFO - Typing text: 'Hello Bhai, mera cod...'
+2026-04-19 14:29:24,979 - INFO - Automation sequence completed successfully.
+2026-04-19 14:29:24,980 - INFO - Automation engine shut down gracefully.
+2026-04-19 14:30:10,684 - ERROR - Failed to initialize MediaPipe: module 'mediapipe' has no attribute 'solutions'
+2026-04-19 14:32:51,953 - INFO - Successfully loaded sequence from sequence.json
+2026-04-19 14:32:51,984 - INFO - ==================================================
+2026-04-19 14:32:51,985 - INFO -  Global kill-switch registered: Press Ctrl+Shift+Q
+2026-04-19 14:32:51,985 - INFO - ==================================================
+2026-04-19 14:32:51,985 - INFO - Automation will begin in 3 seconds. Please prepare the environment...
+2026-04-19 14:32:51,985 - INFO - Starting in 3...
+2026-04-19 14:32:52,986 - INFO - Starting in 2...
+2026-04-19 14:32:53,987 - INFO - Starting in 1...
+2026-04-19 14:32:54,989 - INFO - Starting automation sequence execution...
+2026-04-19 14:32:54,990 - DEBUG - Executing sequence step 1/2
+2026-04-19 14:32:54,990 - INFO - Explicit wait for 2.0 seconds
+2026-04-19 14:32:57,638 - DEBUG - Executing sequence step 2/2
+2026-04-19 14:32:57,639 - INFO - Typing text: 'Hello Bhai, mera cod...'
+2026-04-19 14:32:59,969 - INFO - Automation sequence completed successfully.
+2026-04-19 14:32:59,971 - INFO - Automation engine shut down gracefully.
